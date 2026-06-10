@@ -47,4 +47,4 @@ I am working on it.
 - *2023 Fall, 2024 Spring*, **RHET 101/102: Principles of Writing/Research** @ ZJU-UIUC \| [RHET 101/102](http://catalog.illinois.edu/courses-of-instruction/rhet/)
 
 # 💻 Experience
-- *2026.04 - 2026.06*, Research Assistant, EDA Backend Group, [Institute of Electronic Design Automation, Peking University](http://www.pkueda.org.cn/), Wuxi, Jiangsu, China. Supervised by [Prof. Yibo Lin](https://yibolin.com/) and [Dr. Zuodong Zhang](https://scholar.google.com/citations?user=cxcu9eEAAAAL&hl=en).
+- *2026.04 - 2026.07*, Research Assistant, EDA Backend Group, [Institute of Electronic Design Automation, Peking University](http://www.pkueda.org.cn/), Wuxi, Jiangsu, China. Supervised by [Prof. Yibo Lin](https://yibolin.com/) and [Dr. Zuodong Zhang](https://scholar.google.com/citations?user=cxcu9eEAAAAL&hl=en).
