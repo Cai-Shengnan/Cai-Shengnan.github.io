@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shengnan Cai"
-description              : "Ph.D. Student @CUHK CSE"
+description              : ""
 repository               : "Cai-Shengnan/Cai-Shengnan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shengnan Cai"
   avatar           : "images/avatar.jpg"
-  bio              : "Undergraduate @ ZJU-UIUC Institute"
+  bio              : "Ph.D. Student @CUHK CSE"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : 
