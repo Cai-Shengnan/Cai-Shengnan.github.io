@@ -17,29 +17,34 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student in Electrical Engineering at the ZJU-UIUC Institute, Zhejiang University (joint program with the University of Illinois at Urbana-Champaign), with a minor in Computer Science. My research interests include Computer Vision, Deep Learning, and Hotspot Detection.
+I am a first-year Ph.D. student at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/), supervised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/) since Fall 2026. Prior to that, I obtained my B.S. from the [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/), and my B.E. from [Zhejiang University](https://www.zju.edu.cn/) in 2026.
 
-I have been fortunate to work on several research projects, including remote sensing image segmentation using UNet-Former with deformable attention mechanisms, time-multiplexing algorithms for Spiking Neural Networks, and intelligent algorithms for new energy system capacity evaluation.
+My research interests include AI for EDA and placement & routing.
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉 Started working on remote sensing image segmentation using UNet-Former at Zhejiang University.
+- *2025.02*: &nbsp;🎉 Honored with the [Top TA Award](https://mp.weixin.qq.com/s/s1TqIy32ayd1Ffp8JfTWIA) at Zhejiang University.
 
 # 📝 Publications 
 
 I am working on it.
 
-# 🎖 Honors and Awards
-- *2023* China International College Students' "Internet+" Innovation and Entrepreneurship Competition **Silver Award**
-- *2023* Zhejiang University **First-Class Scholarship** (2022–2023)
-- *2023* Zhejiang **Provincial Government Scholarship** (2022–2023)
-- *2024* **Top TA Award**, Zhejiang University
+# 🎓 Educations
+- *2026.08 - Present*, Ph.D. in Computer Science and Engineering, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/), supervised by [Prof. Bei Yu](https://www.cse.cuhk.edu.hk/~byu/).
+- *2021.09 - 2025.07*, B.E. in Electrical Engineering and Automation, [Zhejiang University](https://www.zju.edu.cn/).
+- *2021.08 - 2025.05*, B.S. in Electrical Engineering (Minor in Computer Science), [University of Illinois Urbana-Champaign](https://illinois.edu/).
 
-# 📖 Educations
-- *2022.09 - Present*, B.S. in Electrical Engineering (Minor in Computer Science), **University of Illinois at Urbana-Champaign** (via ZJU-UIUC Institute). GPA: 3.97/4.0
-- *2022.09 - Present*, B.S. in Electrical Engineering, **Zhejiang University**. GPA: 4.16/4.30, Rank: 7/71
+# 🌟 Selected Awards
+- *2026 - 2030* **CUHK Vice-Chancellor's Ph.D. Scholarship**, The Chinese University of Hong Kong.
+- *2026 - 2030* **Postgraduate Studentship**, The Chinese University of Hong Kong.
+- *2022 - 2023* **Zhejiang University First-Class Scholarship**, Zhejiang University.
+- *2022 - 2023* **Zhejiang Provincial Government Scholarship**, Department of Education of Zhejiang Province.
+- *2022* **Perfect Score in Mathematics**, National College Entrance Examination (Gaokao) — one of only 18 students in Zhejiang Province to achieve a full mark in mathematics.
 
-# 💻 Research Experience
-- *2025.06 - Present*, **Optimization of Remote Sensing Image Segmentation using UNet-Former**, Zhejiang University. Integrated deformable convolutions and deformable attention mechanisms into UNet-Former; investigating multi-scale information interaction for enhanced feature extraction.
-- *2024.06 - 2024.08*, **Multiplexed Leaky Integrate-and-Fire Model Based on Spatiotemporal Backpropagation**, Zhejiang University. Developed a time-multiplexing algorithm for Spiking Neural Networks using LIF model with spatiotemporal backpropagation.
-- *2023.06 - 2023.08*, **Capacity Evaluation of New Energy Systems via Intelligent Algorithms**, Zhejiang University. Designed an interactive interface using Qt Designer for system evaluation.
+# 📖 Teaching
+- *2025, Fall*, **ECE 314: Probability in Engineering Lab** @ ZJU-UIUC. \| [\[Course\]](https://ece.illinois.edu/academics/courses/ECE314)
+- *2025, Spring*, **ECE 313: Probability with Engineering Applications** @ UIUC ECE. \| [\[Course\]](https://ece.illinois.edu/academics/courses/ECE313)
+- *2023 Fall, 2024 Spring*, **[RHET 101/102: Principles of Writing/Research](http://catalog.illinois.edu/courses-of-instruction/rhet/)** @ ZJU-UIUC.
+
+# 💻 Experience
+- *2026.04 - 2026.06*, Research Assistant, EDA Backend Group, [Institute of Electronic Design Automation, Peking University](http://www.pkueda.org.cn/), Wuxi, Jiangsu, China. Supervised by [Prof. Yibo Lin](https://yibolin.com/) and [Dr. Zuodong Zhang](https://scholar.google.com/citations?user=cxcu9eEAAAAJ&hl=en).
