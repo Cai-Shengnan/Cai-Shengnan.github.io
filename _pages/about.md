@@ -39,7 +39,7 @@ I am working on it.
 - *2026 - 2030* **Postgraduate Studentship**, The Chinese University of Hong Kong.
 - *2022 - 2023* **Zhejiang University First-Class Scholarship**, Zhejiang University.
 - *2022 - 2023* **Zhejiang Provincial Government Scholarship**, Department of Education of Zhejiang Province.
-- *2022* **Perfect Score in Mathematics**, National College Entrance Examination (Gaokao) — one of only 18 students in Sichuan Province to achieve a full mark in mathematics.
+- *2022* **Perfect Score in Mathematics**, National College Entrance Examination (Gaokao) — among only tens of students in Sichuan Province to achieve a full mark in mathematics.
 
 # 📖 Teaching
 - *2025, Fall*, **ECE 314: Probability in Engineering Lab** @ ZJU-UIUC \| [ECE 314](https://ece.illinois.edu/academics/courses/ECE314)
